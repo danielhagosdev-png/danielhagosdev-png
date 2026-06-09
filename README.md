@@ -12,7 +12,7 @@
 
 I'm a full-stack developer who enjoys building clean, purposeful software — from desktop applications to web platforms. I care about code that's readable, maintainable, and actually solves a problem.
 
-[![Email](https://img.shields.io/badge/danielghirmay23%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danielghirmay23@gmail.com)
+[![Email](https://img.shields.io/badge/danielhagosdev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danielghirmay23@gmail.com)
 [![GitHub](https://img.shields.io/badge/danielhagosdev--png-181717?style=flat&logo=github&logoColor=white)](https://github.com/danielhagosdev-png)
 
 </div>
